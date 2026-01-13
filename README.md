@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aakpinar42
-- 👀 I’m interested in learning programming 
-- 🌱 I’m currently started learning by using The Odin Project
+- 👀 I’m interested in mastering AI
+- 🌱 I’m currently studying AI at the University of Salzburg
 - 📫 How to reach me:
 - aliakpinar.at@gmail.com
 
